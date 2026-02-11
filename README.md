@@ -206,12 +206,12 @@ This project is available for educational and personal use.
 
 ## 📱 Screenshots
 
-<img width="1469" height="3104" alt="Screenshot_20250529_192428" src="https://github.com/user-attachments/assets/7c297d80-f8a9-4920-bf96-e81c4142e771" />
-<img width="1469" height="3104" alt="Screenshot_20250529_192524" src="https://github.com/user-attachments/assets/6b8b6f1c-5438-4b53-bd56-e7488cd15b63" />
-<img width="1469" height="3104" alt="Screenshot_20250529_192543" src="https://github.com/user-attachments/assets/c5c97d12-429a-4c21-9a5c-112927f6d113" />
-<img width="1469" height="3104" alt="Screenshot_20250529_192614" src="https://github.com/user-attachments/assets/6960b7ce-71f0-4f41-a0bf-8065ab400bba" />
-<img width="1469" height="3104" alt="Screenshot_20250529_192633" src="https://github.com/user-attachments/assets/ed69e73b-4872-406d-b78b-ca389119d6f8" />
-<img width="1469" height="3104" alt="Screenshot_20250529_192652" src="https://github.com/user-attachments/assets/4fbefeba-fd05-4070-9134-21ec60590972" />
+<img width="300" alt="Screenshot_20250529_192428" src="https://github.com/user-attachments/assets/7c297d80-f8a9-4920-bf96-e81c4142e771" />
+<img width="300" alt="Screenshot_20250529_192524" src="https://github.com/user-attachments/assets/6b8b6f1c-5438-4b53-bd56-e7488cd15b63" />
+<img width="300" alt="Screenshot_20250529_192543" src="https://github.com/user-attachments/assets/c5c97d12-429a-4c21-9a5c-112927f6d113" />
+<img width="300" alt="Screenshot_20250529_192614" src="https://github.com/user-attachments/assets/6960b7ce-71f0-4f41-a0bf-8065ab400bba" />
+<img width="300" alt="Screenshot_20250529_192633" src="https://github.com/user-attachments/assets/ed69e73b-4872-406d-b78b-ca389119d6f8" />
+<img width="300" alt="Screenshot_20250529_192652" src="https://github.com/user-attachments/assets/4fbefeba-fd05-4070-9134-21ec60590972" />
 
 
 ## 🔮 Future Enhancements
